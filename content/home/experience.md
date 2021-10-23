@@ -30,5 +30,5 @@ weight: 40
 title: Research Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
